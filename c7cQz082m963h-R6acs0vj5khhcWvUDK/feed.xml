@@ -2,7 +2,8 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>The Beautiful Margin</title>
     <link>https://arthurburtcurry.com/c7cQz082m963h-R6acs0vj5khhcWvUDK/</link>
@@ -23,13 +24,14 @@
 
     <item>
       <title>Protect the Margin</title>
-      <description>New IME optionality, a GST question worth resolving early, a controlled approach to AI scribes, an employment-preserving communication rule, and one small family ritual.</description>
+      <description>New IME optionality, a GST question worth resolving early, a controlled approach to AI scribes, an employment-preserving communication rule, and one small family ritual. Full transcript: https://arthurburtcurry.com/c7cQz082m963h-R6acs0vj5khhcWvUDK/episode-001-transcript.txt</description>
       <pubDate>Wed, 29 Jul 2026 17:00:00 -0700</pubDate>
       <guid isPermaLink="false">the-beautiful-margin-001</guid>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>12:36</itunes:duration>
+      <podcast:transcript url="https://arthurburtcurry.com/c7cQz082m963h-R6acs0vj5khhcWvUDK/episode-001-transcript.txt" type="text/plain" language="en-ca"/>
       <enclosure url="https://github.com/tomcurryMD/arthurburtcurry.com/releases/download/beautiful-margin-media/episode-001-protect-the-margin.mp3" length="12099962" type="audio/mpeg"/>
     </item>
   </channel>
