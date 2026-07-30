@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Beautiful Margin</title>
+    <link>https://arthurburtcurry.com/c7cQz082m963h-R6acs0vj5khhcWvUDK/</link>
+    <description>A private evidence-based briefing about earning wisely, reacting less, and protecting the life the work is meant to serve.</description>
+    <language>en-ca</language>
+    <itunes:author>Private</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category>
+    <itunes:image href="https://github.com/tomcurryMD/arthurburtcurry.com/releases/download/beautiful-margin-media/cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Private</itunes:name>
+      <itunes:email>curry.tom.e@gmail.com</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://arthurburtcurry.com/c7cQz082m963h-R6acs0vj5khhcWvUDK/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Protect the Margin</title>
+      <description>New IME optionality, a GST question worth resolving early, a controlled approach to AI scribes, an employment-preserving communication rule, and one small family ritual.</description>
+      <pubDate>Wed, 29 Jul 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">the-beautiful-margin-001</guid>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>12:36</itunes:duration>
+      <enclosure url="https://github.com/tomcurryMD/arthurburtcurry.com/releases/download/beautiful-margin-media/episode-001-protect-the-margin.mp3" length="12099962" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
+
