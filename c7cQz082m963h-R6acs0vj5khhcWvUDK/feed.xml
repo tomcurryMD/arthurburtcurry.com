@@ -1,3 +1,6 @@
+Exit code: 0
+Wall time: 0.2 seconds
+Output:
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -21,6 +24,19 @@
       <itunes:email>curry.tom.e@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://arthurburtcurry.com/c7cQz082m963h-R6acs0vj5khhcWvUDK/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>The Meetings Are the Product</title>
+      <description>A physician leadership opportunity has returned with enough detail to reveal its real product: recurring relationships, translation, advocacy, and institutional trust. This episode proposes a one-page role-load card covering protected time, live cadence, deliverables, decision rights, practical support, and one family boundary. It compares opportunities by attention form rather than hourly rate, while respecting cultural safety as professional work. Two adjacent findings sharpen the week: verify account alerts through an official channel, and require Canada's CSA F280 load method plus official rebate confirmation before choosing heat-pump equipment. The work shield separates useful escalation from gossip and motive analysis. In the car, Tom tells one boy when he felt most free at that age, then invites an answer or a pass. Full transcript: https://arthurburtcurry.com/c7cQz082m963h-R6acs0vj5khhcWvUDK/episode-007-transcript.txt</description>
+      <pubDate>Wed, 05 Aug 2026 03:33:00 -0700</pubDate>
+      <guid isPermaLink="false">the-beautiful-margin-007</guid>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>31:48</itunes:duration>
+      <podcast:transcript url="https://arthurburtcurry.com/c7cQz082m963h-R6acs0vj5khhcWvUDK/episode-007-transcript.txt" type="text/plain" language="en-ca"/>
+      <enclosure url="https://github.com/tomcurryMD/arthurburtcurry.com/releases/download/beautiful-margin-media/episode-007-the-meetings-are-the-product.mp3" length="30534888" type="audio/mpeg"/>
+    </item>
 
     <item>
       <title>Close the Loop Before You Open Another</title>
